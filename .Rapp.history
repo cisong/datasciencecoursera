@@ -1,0 +1,101 @@
+q()
+available.packages()
+head(rownames(a),3)
+head (rownames)
+head(rownames,3)
+head(rownames,do.3)
+a <- available.package()
+a <- available.packages()
+head(rownames(a),3)
+q()
+getwd()
+x <- 1
+print(x)
+msg <- "Hello"
+print(msg)
+y <- "hi"
+print(y)
+m <- "ha"
+print(m)
+z <-
+3
+print(z)
+f <- #fjafjla
+print(f)
+x <- 5
+x
+y <- 5 7
+x <- 1:20
+x
+x <- 1/inf
+x <- 1/Inf
+print(x)
+y <- 1/0
+print(y)
+x <- c(0.5, 0.6)
+print x
+print(x)
+x <- c(TRUE, FLASE)
+x <- c(TRUE, FALSE)
+print(x)
+x <- 9:29
+print(x)
+x <- vector("numeric",length=10)
+x
+x <- 0:6
+x
+class(x)
+as.numeric(x)
+as.logical(c)
+as.logical(x)
+as.character(x)
+x
+<- as.character(x)
+x <- list(1,"a",True,1+4i)
+x <- list(1,"a",TRUE,1+4i)
+x
+m <- matrix(nrow=2,ncol=3)
+m
+dim(m)
+attributes(m)
+m <- matrix(1:6,nrow=2,ncol=3)
+m
+m <- matrix(1:100,nrow=11,ncol=11)
+m <- matrix(1:100,nrow=10,ncol=10)
+m
+m <- matrix(1:100,nrow=9,ncol=10)
+m <- matrix(1:100,nrow=5,ncol=10)
+m
+m <- 1:10
+dim(m) <- c(2,5)
+m
+dim(m) <-c(5,2)
+m
+dim(m)
+x <- 1:5
+y <- 7:11
+cbind(y,x)
+rbind(x,y)
+x <- factor(c("yes","yes","no","yes","no"))
+x
+table(x)
+unclass(x)
+x <- factor(c("yes","yes","no","yes","no"),)
+level=c("yes","no")
+x <- factor(c("yes","yes","no","yes","no"),#
+> level=c("yes","no"))
+x <- factor(c("yes","yes","no","yes","no"),)
+x <- factor(c("yes","yes","no","yes","no"),levels=c("yes","no"))
+x
+x <- data.frame(foo=1:4,bar=c(T,T,F,F))
+x
+nrow(x)
+ncol(x)
+x <- 1:7
+names(x) <- c("zhao", "shu", "bin","shi","da","sha","gua")
+x
+names(x)
+m <- matrix(1:4,nrow=2,ncol=2)
+dimnames(m) <- list(c("a","b"),c("c","d"))
+m
+help()
